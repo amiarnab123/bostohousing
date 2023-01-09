@@ -3,12 +3,12 @@
 ### Software And Tools Requirements
 
 1. [Github Account](https://github.com)
-2. [HerokuAccount](https://heroku.com)
-3. [VSCodeIDE](https://code.visualstudio.com/)
+2. [AWSAccount](https://aws.amazon.com/)
+3. [PycharmIDE](https://www.jetbrains.com/pycharm/)
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
-Create a new environment
+**Step-1**
+```
+Create a new environment in Pycharm.
+```
 
-```
-conda create -p venv python==3.7 -y
-```
